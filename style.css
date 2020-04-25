@@ -1,0 +1,39 @@
+
+
+
+
+
+.information  
+ {
+    height: 200px;
+    background-color: #808080;
+}
+
+}
+ 
+.hope {
+    font-size: 1.7em;
+    margin-bottom: 30px;
+    color: white;
+    text-align: center;
+}
+ 
+.bottombutton {
+    background-color: #FFFFFF;
+    border: none;
+    color: black;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
+}
+ 
+.button {
+    
+    object-position: center;
+    color: red;
+    }
+
